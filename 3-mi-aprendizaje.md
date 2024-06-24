@@ -1,3 +1,5 @@
+## Mi aprendizaje
+
 # 1. Comprensión de Docker Compose
 Antes de la práctica, tenía una comprensión básica de Docker y sus conceptos fundamentales. Después de completar el ejercicio, mi conocimiento sobre Docker Compose se ha profundizado significativamente. Ahora entiendo cómo definir y gestionar aplicaciones multi-contenedor utilizando un archivo compose.yaml.
 
